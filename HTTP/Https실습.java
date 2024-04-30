@@ -17,6 +17,8 @@ public class HttpToHttpsRedirectConfig extends WebSecurityConfigurerAdapter {
 
 
     //
+
+
     @Bean
     public ServletWebServerFactory servletContainer() {
         TomcatServletWebServerFactory tomcat = new TomcatServletWebServerFactory() {
