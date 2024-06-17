@@ -25,7 +25,6 @@ Spring 컨테이너는 Spring Framework의 핵심 부분으로 ,
   public void afterPropertiesSet() throws Exception {
   // Initialization code
   }
-
   @Override
   public void destroy() throws Exception {
   // Cleanup code
