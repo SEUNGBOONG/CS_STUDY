@@ -1,0 +1,2 @@
+CREATE UNIQUE INDEX 학생_인덱스 ON Gㅏㄱ생 학과 ASC
+

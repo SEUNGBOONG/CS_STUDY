@@ -1,0 +1,1 @@
+SELECT  과목이름 최소점수, 최대점수 FROM 성적 GROUP BY 결과 HAVING AVG(점수)>70 AS(), MIN(점수),
