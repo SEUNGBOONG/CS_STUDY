@@ -28,3 +28,4 @@
 - 5xx 에러는 절대 사용자에게 나타내지 마라!
 
 ![스크린샷 2024-08-17 오전 9.47.27.png](..%2F..%2F..%2F..%2F..%2F..%2Fvar%2Ffolders%2Fm4%2Fn9zxyvgx4lx03pl_7nrbhpyr0000gn%2FT%2FTemporaryItems%2FNSIRD_screencaptureui_924LDF%2F%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202024-08-17%20%EC%98%A4%EC%A0%84%209.47.27.png)
+![스크린샷 2024-08-17 오전 9.49.36.png](..%2F..%2F..%2F..%2F..%2F..%2Fvar%2Ffolders%2Fm4%2Fn9zxyvgx4lx03pl_7nrbhpyr0000gn%2FT%2FTemporaryItems%2FNSIRD_screencaptureui_tiSdfG%2F%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202024-08-17%20%EC%98%A4%EC%A0%84%209.49.36.png)
