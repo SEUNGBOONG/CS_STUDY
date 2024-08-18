@@ -18,3 +18,9 @@
   csrf : 로컬에서 확인을 위해 csrf를 비활성화 시켜주었습니다
   authorizeHttpRequests : /(홈), /login(로그인 페이지), /join(회원가입 페이지)는 로그인 없이 접근하도록 셋팅하였습니다
   formLogin : /login 페이지를 커스터마이징 하여 로그인 체크를 할때 해당 url을 타도록 셋팅하고 로그인 성공시 /로 페이지 이동하도록 하였습니다
+
+
+# 폴더위치
+- 기본적으로  
+- Spring Bean Configuraion File(XML 설정 파일) 또는 @Component Scan 대신 @Configuration 어노테이션 지정을 통해 .java 클래스 파일로 DI 지시서를 작성하는 기법
+- 서비스에 둔다. 
