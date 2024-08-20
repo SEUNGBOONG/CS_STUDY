@@ -24,3 +24,9 @@
 - 기본적으로  
 - Spring Bean Configuraion File(XML 설정 파일) 또는 @Component Scan 대신 @Configuration 어노테이션 지정을 통해 .java 클래스 파일로 DI 지시서를 작성하는 기법
 - 서비스에 둔다. 
+
+
+# 구조 
+1. 사용자 인증을 하고 해당 정보를 저장하거나 권한을 검사하는 등의 역할을 수행하는 아키텍처
+2. Servlet 지원은 Servlet 필터에 기반을 두고 있고 먼저 필터의 역할을 일반적으로 살펴보는 것이 도움된다.
+3. 
