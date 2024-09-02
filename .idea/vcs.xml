@@ -2,5 +2,7 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/MJU/Network_Protocol" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/MJU/Network_Protocol/Computer-Networking_A-Top-Down-Approach" vcs="Git" />
   </component>
 </project>
