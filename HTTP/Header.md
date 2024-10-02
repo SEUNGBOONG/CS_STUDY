@@ -14,6 +14,7 @@
 - 캐시는 이를 반드시 저장해야합니다.
 
 # 홉간 헤더
+
 - 이러한 헤더는 단일 전송-레벨 연결에서만 의미가 있으며 
 - 프록시에의해 재전송되거나 캐시되어선 안됩니다. 
 - 이러한 헤더들은 다음과 같습니다: Connection, Keep-Alive, Proxy-Authenticate, Proxy-Authorization, TE, Trailer, Transfer-Encoding, Upgrade. 
