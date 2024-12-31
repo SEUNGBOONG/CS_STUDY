@@ -52,6 +52,7 @@ Dockerfile에 정의된 명령어(FROM, RUN, COPY 등)를 기반으로 이미지
    docker network connect app-network mysql-db
    docker network connect app-network my-spring-app
 
+
 4. Spring 애플리케이션 실행: MySQL 컨테이너와 같은 네트워크에서 실행되도록 설정하고 애플리케이션을 띄웁니다.
  - docker run -d --name spring-app --network app-network -p 8080:8080 my-spring-app
 
