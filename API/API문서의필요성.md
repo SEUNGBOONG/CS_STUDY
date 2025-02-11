@@ -7,6 +7,4 @@ API 문서란 ?
 - REST API 개발시에는 Swagger, GraphQL일 시에는 Playground 등이 있다.
 - [Swagger](https://swagger.io/docs/specification/about/)
 - REST API를 설계 구축 문서화 및 사용하는데 도움이되는 OpenAPi사양을 기반으로 구축된 오픈소스 도구세트
-
-
-- 
+- 노션으로도 많이함 
