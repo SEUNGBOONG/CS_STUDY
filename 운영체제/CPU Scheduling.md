@@ -91,8 +91,7 @@ CPU Scheduling
 - **Convoy Effect**가 발생할 수 있다.
 
   > Convoy Effect란?
-  >
-  >
+  
   > I/O bound process 들이 늦게 들어오고 CPU bound process들이 먼저 들어오게 된다면 실행 시간이 적은 I/O bound process들은 많은 시간을 기다려야하는데 이러한 상황을 Convoy Effect라고 한다.
   >
 
