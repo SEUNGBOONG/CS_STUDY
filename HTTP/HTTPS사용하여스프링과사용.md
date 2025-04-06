@@ -12,6 +12,8 @@ git commit --date "Mon 12 Feb " -m 2023 10:00:00 KST"commit"
 
 
 
+
+
 -alias myalias: 키의 별칭을 설정합니다.
 -keyalg RSA: RSA 알고리즘을 사용하여 키를 생성합니다.
 -keysize 2048: 키 크기를 2048 비트로 설정합니다.
